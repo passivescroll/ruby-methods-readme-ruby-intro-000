@@ -1,4 +1,5 @@
-def say_hello_world_two_times
-  puts "Hello World"
+def greeting
   puts "Hello World"
 end
+
+greeting
