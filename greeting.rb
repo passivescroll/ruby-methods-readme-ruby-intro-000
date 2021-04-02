@@ -4,6 +4,6 @@ end
 
 greeting
 greeting
-gretting
-gretting
-gretting
+greeting
+greeting
+greeting
